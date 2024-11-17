@@ -1,4 +1,4 @@
-### **Description **
+### **Description**
 
 1. **Tree Initialization:**
 
