@@ -10,8 +10,8 @@
 
 3. **Tree Operations:**
 
-   - **Insert:** Keys and values are inserted, ensuring the tree remains balanced.
-   - **Search:** User-entered words are searched in the tree.
+   - **Insert:** Keys and values are inserted, ensuring the tree remains balanced. [See Details](Insertion.md)
+   - **Search:** User-entered words are searched in the tree. [See Details](Searching.md)
    - **Display:** The structure of the tree can be displayed (for debugging or verification).
 
 4. **User Interaction:**
